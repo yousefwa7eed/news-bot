@@ -20,6 +20,9 @@ RSS_FEEDS = {
     "سكاي نيوز عربية": "https://www.skynewsarabia.com/rss/6a267ac5-0846-4a04-b8f9-e08d70d78e10",
     "رويترز - الشرق الأوسط": "https://www.reuters.com/world/middle-east/rss",
     "فرانس24 عربي": "https://www.france24.com/ar/rss",
+    "الأناضول عربي": "https://www.aa.com.tr/ar/rss/default?cat=guncel",
+    "RT عربي": "https://arabic.rt.com/rss/",
+    "المصري اليوم": "https://www.almasryalyoum.com/rss/rssfeed",
 }
 
 CATEGORIES = {

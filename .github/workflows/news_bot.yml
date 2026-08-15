@@ -2,7 +2,7 @@ name: News Bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # كل 10 دقايق
+    - cron: "*/5 * * * *"    # كل 5 دقايق
   workflow_dispatch:          # يخليك تشغّله يدوي من GitHub لو حبيت تجربه فوراً
 
 permissions:
